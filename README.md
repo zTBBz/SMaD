@@ -19,7 +19,7 @@
   </p>
 </div>
 
-## Strange Meals and Drinks (SMaD) ##
+## Strange Meals and Drinks (SMaD) (Yep, Hello aToI!)) ##
 
 ## Links ##
 *  [Download SMaD](https://github.com/zTBBz/SMaD/releases)
