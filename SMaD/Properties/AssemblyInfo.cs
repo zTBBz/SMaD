@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // Общие сведения об этой сборке предоставляются следующим набором
 // набора атрибутов. Измените значения этих атрибутов для изменения сведений,
 // связанные со сборкой.
-[assembly: AssemblyTitle("Strange Meals")]
+[assembly: AssemblyTitle("SMaD Ref")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Strange Meals")]
+[assembly: AssemblyProduct("SMaD Ref")]
 [assembly: AssemblyCopyright("Copyright ©  2020")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // Следующий GUID служит для идентификации библиотеки типов, если этот проект будет видимым для COM
-[assembly: Guid("1bf3aff4-98db-4e48-abfa-09b0eacb8932")]
+[assembly: Guid("e40429c5-4967-453b-a839-8cc1b8bd2c16")]
 
 // Сведения о версии сборки состоят из указанных ниже четырех значений:
 //

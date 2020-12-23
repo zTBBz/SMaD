@@ -33,9 +33,13 @@ namespace SMaD
 
 			patcher.Postfix(typeof(StatusEffects), "hasStatusEffect", new Type[1] { typeof(string) });
 
+#pragma warning disable CS0618 // Тип или член устарел
 			patcher.Postfix(typeof(StatusEffects), "AddStatusEffect", new Type[6] { typeof(string), typeof(bool), typeof(Agent), typeof(NetworkInstanceId), typeof(bool), typeof(int) });
+#pragma warning restore CS0618 // Тип или член устарел
 
+#pragma warning disable CS0618 // Тип или член устарел
 			patcher.Postfix(typeof(StatusEffects), "RemoveStatusEffect", new Type[4] { typeof(string), typeof(bool), typeof(NetworkInstanceId), typeof(bool) });
+#pragma warning restore CS0618 // Тип или член устарел
 
 			patcher.Postfix(typeof(StatusEffects), "AddTrait", new Type[3] { typeof(string), typeof(bool), typeof(bool) });
 
