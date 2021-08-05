@@ -21,6 +21,8 @@
 
 ## Strange Meals and Drinks (SMaD) ( Yep, Hello aToI!) ) ##
 
+## SMaD moved here: [Click!](https://github.com/zTBBz/TBB)
+
 ## Links ##
 *  [Download SMaD](https://github.com/zTBBz/SMaD/releases)
 *  [RogueLibs on GitHub](https://github.com/Abbysssal/RogueLibs)
